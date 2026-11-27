@@ -318,4 +318,4 @@ Base URL: `http://localhost:4000`. Protected routes expect the JWT in a request 
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Copyright © 2025-2026 Gilang Pratama Putra. All rights reserved. See [LICENSE](LICENSE).
