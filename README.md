@@ -12,7 +12,7 @@ Built as my undergraduate thesis at Pancasila University (Informatics Engineerin
 
 > **Disclaimer:** This project was built for academic purposes. Its recommendations are not a substitute for professional medical advice.
 
-![Konsulispa poster](docs/poster.jpg)
+![Konsulispa poster](docs/screenshots/poster.jpg)
 
 ## Table of Contents
 
